@@ -21,7 +21,7 @@ Tools I regularly use:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=snubwoody&hide=stars&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snubwoody&layout=compact)
 
-#### Trivia
+### ❗Trivia ❗
 |Q|A|
 |---|---|
 |Current OS| ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)|
