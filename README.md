@@ -18,7 +18,7 @@ Tools I regularly use:
 - 🔭 I’m currently working on an open source GUI library built using rust, you can checkout it out [here](https://github.com/snubwoody/Helium).
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=snubwoody&hide=stars&show_icons=true&theme=gruvbox)]
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snubwoody)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snubwoody&layout=compact)
 
 #### Trivia
 |Q|A|
