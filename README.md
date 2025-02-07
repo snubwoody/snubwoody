@@ -17,14 +17,15 @@ Tools I regularly use:
 
 - 🔭 I’m currently working on an open source GUI library built using rust, you can checkout it out [here](https://github.com/snubwoody/Helium).
 - 😅 I enjoy building tools more than actually using them. 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=snubwoody&hide=stars&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snubwoody&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=snubwoody&hide=stars&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snubwoody&layout=compact&theme=dark"/>
+</div>
 
 ### ❗Trivia ❗
 |Q|A|
 |---|---|
-|Current OS| ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)|
-|Most used language|![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)|
-|Favourite IDE| ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)|
-|Favourite Streaming Platform |![Apple TV](https://img.shields.io/badge/Apple%20TV-000000?logo=Apple%20TV&logoColor=white)|
+|💻Current OS💻| ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)|
+|🔹Most used language🔹|![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)|
+|🛠️Favourite IDE🛠️| ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)|
+|📺Favourite Streaming Platform📺 |![Apple TV](https://img.shields.io/badge/Apple%20TV-000000?logo=Apple%20TV&logoColor=white)|
