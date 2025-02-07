@@ -15,7 +15,7 @@ Tools I regularly use:
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
 
-- 🔭 I’m currently working on an open source GUI library built using rust, you can checkout it out here.
+- 🔭 I’m currently working on an open source GUI library built using rust, you can checkout it out [here](https://github.com/snubwoody/Helium).
 
 #### Trivia
 |Q|A|
